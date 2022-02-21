@@ -12,7 +12,7 @@ This repository contains code for Equivariance Discovery by Learned Parameter-Sh
 If you used this code or found it helpful, please consider citing the following paper:
 
 <pre>
-@inproceedings{YehNeurIPS2019,
+@inproceedings{YehAISTATS2022,
                author = {R.~A. Yeh and Y.-T. Hu and M. Hasegawa-Johnson and A.~G. Schwing},
                title = {Equivariance Discovery by Learned Parameter-Sharing},
                booktitle = {Proc. AISTATS},
