@@ -1,27 +1,24 @@
 # Equivariance Discovery by Learned Parameter-Sharing
 
-# AISTATS 2022
-
-[Raymond A. Yeh](https: // www.raymond-yeh.com/)<sup > 1 < /sup > ,
-[Yuan-Ting Hu](https: // sites.google.com/view/yuantinghu), [Mark Hasegawa-Johnson](http: // www.ifp.illinois.edu/~hasegawa /) , [Alexander G. Schwing](http: // www.alexander-schwing.de/)<br/>
-Toyota Technological Institute at Chicago < sup > 1 < /sup > <br/>
-University of Illinois at Urbana-Champaign < br/>
+### AISTATS 2022
+[Raymond A. Yeh](https://www.raymond-yeh.com/)<sup>1</sup> ,
+[Yuan-Ting Hu](https://sites.google.com/view/yuantinghu), [Mark Hasegawa-Johnson](http://www.ifp.illinois.edu/~hasegawa/), [Alexander G. Schwing](http://www.alexander-schwing.de/)<br/>
+Toyota Technological Institute at Chicago<sup>1</sup><br/>
+University of Illinois at Urbana-Champaign <br/>
 
 # Overview
-This repository contains code for Equivariance Discovery by Learned Parameter-Sharing accepted to AISTATS 2022.
+This repository contains code for Equivariance Discovery by Learned Parameter-Sharing (AISTATS 2022).
 
-If you used this code for your experiments or found it helpful, please consider citing the following paper:
+If you used this code or found it helpful, please consider citing the following paper:
 
-<pre >
-
-
+<pre>
 @inproceedings{YehNeurIPS2019,
                author = {R.~A. Yeh and Y.-T. Hu and M. Hasegawa-Johnson and A.~G. Schwing},
                title = {Equivariance Discovery by Learned Parameter-Sharing},
                booktitle = {Proc. AISTATS},
                year = {2022},
-               }
-</pre >
+}
+</pre>
 
 # Setup
 To install the dependencies, run the following
